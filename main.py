@@ -202,7 +202,7 @@ def mainImage():
             else:
                 root.after(33, next_image)
 
-    root.after(3, next_image)
+    root.after(100, next_image)
     root.mainloop()
 
 
@@ -221,4 +221,5 @@ if __name__ == '__main__':
     i = threading.Thread(target=mainImage)
     threads.append(i)
     t.start()
+    sleep(2)
     i.start()
