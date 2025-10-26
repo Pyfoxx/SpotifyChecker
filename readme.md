@@ -6,9 +6,9 @@ A fun little Spotify "now playing" visualizer that displays album art with a rot
 
 ## ⚠️ Disclaimer
 
-This is just a **proof of concept** made for fun! No energy went into making it perfectly optimized or production-ready. It does what it's supposed to do, and that's about it. 😄
+This is just a **proof of concept** made for fun! No energy went into making it perfectly optimized or production-ready. It does what it's supposed to do, and that's about it. 
 
-*P.S. This README was written by AI because I couldn't be bothered to write it myself.* 🤖
+*P.S. This README was written by AI because I couldn't be bothered to write it myself.* 
 
 ## What It Does
 
@@ -92,8 +92,6 @@ The circular cropping and 640x640 resolution were specifically chosen to match r
 
 - **Token Management**: Automatically refreshes expired tokens
 - **Real-time Updates**: Checks for song changes every 2 seconds
-- **Smooth Animation**: Rotating album art with 360 pre-rendered frames
+- **Smooth Animation**: Rotating album art with 3240 pre-rendered frames
 - **Circular Album Art**: Specifically designed for round displays!
 - **Playback Detection**: Only rotates when music is actually playing
-
-## Project Structure
