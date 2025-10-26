@@ -92,8 +92,6 @@ The circular cropping and 640x640 resolution were specifically chosen to match r
 
 - **Token Management**: Automatically refreshes expired tokens
 - **Real-time Updates**: Checks for song changes every 2 seconds
-- **Smooth Animation**: Rotating album art with 360 pre-rendered frames
+- **Smooth Animation**: Rotating album art with 3240 pre-rendered frames
 - **Circular Album Art**: Specifically designed for round displays!
 - **Playback Detection**: Only rotates when music is actually playing
-
-## Project Structure
