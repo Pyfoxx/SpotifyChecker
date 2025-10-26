@@ -6,9 +6,9 @@ A fun little Spotify "now playing" visualizer that displays album art with a rot
 
 ## ⚠️ Disclaimer
 
-This is just a **proof of concept** made for fun! No energy went into making it perfectly optimized or production-ready. It does what it's supposed to do, and that's about it. 😄
+This is just a **proof of concept** made for fun! No energy went into making it perfectly optimized or production-ready. It does what it's supposed to do, and that's about it. 
 
-*P.S. This README was written by AI because I couldn't be bothered to write it myself.* 🤖
+*P.S. This README was written by AI because I couldn't be bothered to write it myself.* 
 
 ## What It Does
 
